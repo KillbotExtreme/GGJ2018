@@ -1,2 +1,2 @@
 globalvar players;
-players = 2;
+players = 4;
