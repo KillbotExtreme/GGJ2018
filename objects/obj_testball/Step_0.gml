@@ -1,6 +1,7 @@
 curve=0.08-speed/80;
 image_angle=direction+90;
 if speed<1{
+	if y>1125{instance_destroy();}
 	cancurve=0;
 	if spotlight=1{
 		alarm[1]=20;spotlight=0;}
