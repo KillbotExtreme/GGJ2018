@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "094262ee-cf2b-4118-b8a1-ff3516588a66",
+            "Value": {
+                "id": "78485ff0-7ad2-4763-a262-242060858c4b",
+                "resourcePath": "sprites\\spr_rokit\\spr_rokit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0af28e2c-a657-42e4-94a4-6828c7d52268",
             "Value": {
                 "id": "0f8abefb-0887-4529-88db-ca15bff4619d",
