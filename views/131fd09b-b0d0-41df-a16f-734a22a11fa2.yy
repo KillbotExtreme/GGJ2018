@@ -13,8 +13,7 @@
         "825ff652-47d4-4525-96c4-1e7beb2f15cf",
         "ba56a1b6-b19e-41e8-ab10-8f61991faf4c",
         "75d95a25-5b22-47a8-afe4-22ad0700a25a",
-        "424729f0-434a-4ec7-afed-672dbf2c63b9",
-        "ca77f6d8-bac5-4858-be9d-b76662c134cd"
+        "424729f0-434a-4ec7-afed-672dbf2c63b9"
     ],
     "filterType": "GMSprite",
     "folderName": "balls",

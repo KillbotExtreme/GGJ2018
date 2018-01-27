@@ -5,7 +5,7 @@
     "name": "obj_go",
     "eventList": [
         {
-            "id": "c8cc8e00-989f-4e2f-ada0-894ad2e1dfdd",
+            "id": "d186f2d5-4eb5-4b8c-824a-b73d8b8d3db0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "23272f70-9a49-41c7-b7b9-0f35ae3e22f0"
         },
         {
-            "id": "9efb72c8-dc10-409d-9f4a-933cb4ce55cb",
+            "id": "49f5401c-d3c5-47f6-bfec-9dca0f279a73",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

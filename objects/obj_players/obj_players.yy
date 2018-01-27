@@ -5,7 +5,7 @@
     "name": "obj_players",
     "eventList": [
         {
-            "id": "9d063f51-3b0f-4d04-9d36-710c6c93a184",
+            "id": "50e03578-e5af-4490-bdcf-2470af2dec01",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "64a112f1-28cb-4b8f-b1ba-2fa9b97a7f53"
         },
         {
-            "id": "683e2aec-d2ae-4e6e-b546-48866e4ba427",
+            "id": "98778340-d827-464a-aaf0-06823462e23f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
